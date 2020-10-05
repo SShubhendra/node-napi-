@@ -1,7 +1,7 @@
 # node-napi-
 
 run c n c++ code via node
-
+npm i
 node-gyp configure
 node-gyp build
 
